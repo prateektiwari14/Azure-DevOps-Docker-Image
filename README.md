@@ -27,7 +27,7 @@ AZP_AGENT_NAME: Agent name (default value: the container hostname). <br>
 AZP_POOL: Agent pool name (default value: Default). <br>
 AZP_WORK: Work directory (default value: _work). <br>
 
-If you would like to build your own custom image, please do refer the Microsoft Documentation about [running the self hosted agent in docker]([url](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/docker?view=azure-devops)) for complete details.
+If you would like to build your own custom image, please do refer the Microsoft Documentation about [running the self hosted agent in docker](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/docker?view=azure-devops) for complete details. 
 
 ## Conclusion: 
 The Azure DevOps Docker image is a powerful asset for developers seeking to streamline their CI/CD workflows within Azure DevOps. With its lightweight and optimized design, based on the stable Ubuntu 20.04 operating system, developers can enjoy efficient resource utilization and maximize productivity. By integrating seamlessly with Azure DevOps pipelines, the Docker image provides developers with the tools they need for continuous integration, delivery, and deployment. Through version control and tagging, developers can stay up to date with the latest improvements and enhancements. Ultimately, this Docker image promotes flexibility, scalability, and consistency in the deployment process, empowering developers to build and deploy their applications with ease within the Azure DevOps ecosystem.
