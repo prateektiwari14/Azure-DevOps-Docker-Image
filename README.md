@@ -19,6 +19,7 @@ To start leveraging the power of the Azure DevOps Docker image, simply run the f
 ```
 docker pull prateektiwari14/azuredevops
 ```
+Alternatively, you can download the Dockerfile and shell script to customize and make your image.
 
 ## Environment variables to be used:
 AZP_URL: The URL of the Azure DevOps or Azure DevOps Server instance. (e.g. https://dev.azure.com/{organization}) <br>
